@@ -72,12 +72,6 @@ modifier.txt changes the spawn height when playing.
 
 
 
-Diagram
-
-Included separately as image or code block.
-
-
-
 Controls
 
 Click the UI buttons to spawn objects.
